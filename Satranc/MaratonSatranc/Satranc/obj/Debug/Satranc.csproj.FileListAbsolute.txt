@@ -1,0 +1,40 @@
+C:\Users\rabia.karakaya\source\repos\MaratonSatranc\Satranc\bin\Debug\Satranc.exe.config
+C:\Users\rabia.karakaya\source\repos\MaratonSatranc\Satranc\bin\Debug\Satranc.exe
+C:\Users\rabia.karakaya\source\repos\MaratonSatranc\Satranc\bin\Debug\Satranc.pdb
+C:\Users\rabia.karakaya\source\repos\MaratonSatranc\Satranc\obj\Debug\Satranc.csprojAssemblyReference.cache
+C:\Users\rabia.karakaya\source\repos\MaratonSatranc\Satranc\obj\Debug\Satranc.Form1.resources
+C:\Users\rabia.karakaya\source\repos\MaratonSatranc\Satranc\obj\Debug\Satranc.Properties.Resources.resources
+C:\Users\rabia.karakaya\source\repos\MaratonSatranc\Satranc\obj\Debug\Satranc.csproj.GenerateResource.cache
+C:\Users\rabia.karakaya\source\repos\MaratonSatranc\Satranc\obj\Debug\Satranc.csproj.CoreCompileInputs.cache
+C:\Users\rabia.karakaya\source\repos\MaratonSatranc\Satranc\obj\Debug\Satranc.exe
+C:\Users\rabia.karakaya\source\repos\MaratonSatranc\Satranc\obj\Debug\Satranc.pdb
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc\Satranc\bin\Debug\Satranc.exe.config
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc\Satranc\bin\Debug\Satranc.exe
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc\Satranc\bin\Debug\Satranc.pdb
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc\Satranc\obj\Debug\Satranc.csprojAssemblyReference.cache
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc\Satranc\obj\Debug\Satranc.Form1.resources
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc\Satranc\obj\Debug\Satranc.Properties.Resources.resources
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc\Satranc\obj\Debug\Satranc.csproj.GenerateResource.cache
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc\Satranc\obj\Debug\Satranc.csproj.CoreCompileInputs.cache
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc\Satranc\obj\Debug\Satranc.exe
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc\Satranc\obj\Debug\Satranc.pdb
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc - Kopya\Satranc\obj\Debug\Satranc.csprojAssemblyReference.cache
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc - Kopya\Satranc\obj\Debug\Satranc.Form1.resources
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc - Kopya\Satranc\obj\Debug\Satranc.Properties.Resources.resources
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc - Kopya\Satranc\obj\Debug\Satranc.csproj.GenerateResource.cache
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc - Kopya\Satranc\obj\Debug\Satranc.csproj.CoreCompileInputs.cache
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc - Kopya\Satranc\obj\Debug\Satranc.exe
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc - Kopya\Satranc\obj\Debug\Satranc.pdb
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc - Kopya\Satranc\bin\Debug\Satranc.exe.config
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc - Kopya\Satranc\bin\Debug\Satranc.exe
+C:\Users\mkara\Desktop\Rabia\MaratonSatranc - Kopya\Satranc\bin\Debug\Satranc.pdb
+C:\Users\alper.kocer\Desktop\MaratonSatranc\Satranc\bin\Debug\Satranc.exe.config
+C:\Users\alper.kocer\Desktop\MaratonSatranc\Satranc\bin\Debug\Satranc.exe
+C:\Users\alper.kocer\Desktop\MaratonSatranc\Satranc\bin\Debug\Satranc.pdb
+C:\Users\alper.kocer\Desktop\MaratonSatranc\Satranc\obj\Debug\Satranc.csprojAssemblyReference.cache
+C:\Users\alper.kocer\Desktop\MaratonSatranc\Satranc\obj\Debug\Satranc.Form1.resources
+C:\Users\alper.kocer\Desktop\MaratonSatranc\Satranc\obj\Debug\Satranc.Properties.Resources.resources
+C:\Users\alper.kocer\Desktop\MaratonSatranc\Satranc\obj\Debug\Satranc.csproj.GenerateResource.cache
+C:\Users\alper.kocer\Desktop\MaratonSatranc\Satranc\obj\Debug\Satranc.csproj.CoreCompileInputs.cache
+C:\Users\alper.kocer\Desktop\MaratonSatranc\Satranc\obj\Debug\Satranc.exe
+C:\Users\alper.kocer\Desktop\MaratonSatranc\Satranc\obj\Debug\Satranc.pdb
